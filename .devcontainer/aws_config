@@ -1,0 +1,15 @@
+[profile nimbus-prod]
+sso_start_url = https://octoml.awsapps.com/start
+sso_region = us-west-2
+sso_account_id = 145157827568
+sso_role_name = Nimbus-Developer
+region = us-east-1
+output = json
+
+[profile nimbus-dev]
+sso_start_url = https://octoml.awsapps.com/start
+sso_region = us-west-2
+sso_account_id = 512346279265
+sso_role_name = Nimbus-Developer
+region = us-east-1
+output = json
